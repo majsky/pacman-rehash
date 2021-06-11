@@ -1,0 +1,1 @@
+TRAPUSR1() { rehash }
